@@ -1,4 +1,4 @@
-<img src=".tmp/thumbnail.png" />
+<img src="./tmp/thumbnail.png" />
 
 ## About this Project
 
@@ -22,19 +22,15 @@ To run this project in the development mode, you'll need to have a basic environ
 
 ```
 git clone https://github.com/Nikolassantos/Proffy-WEB.git
-
 ```
-
 ```
 cd Proffy-WEB
-
 ```
-
+```
 npm install
-
+```
 ```
 npm start
-
 ```
 
 ## Contribution
@@ -49,6 +45,6 @@ Thank you!
 
 [MIT License](/LICENSE)
 
-```
 
-```
+<p align="center">Feito com ❤️ por <strong>Nikolas Santos :wave: </p>
+
