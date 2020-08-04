@@ -1,4 +1,4 @@
-<img src=".github/thumbnail.png" />
+<img src=".tmp/thumbnail.png" />
 
 ## About this Project
 
