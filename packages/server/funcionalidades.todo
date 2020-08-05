@@ -1,0 +1,14 @@
+# Funcionalidades
+
+## Conexões
+
+- [] Rota para listar o total de conexões,
+- [] Rota para cria uma nova conexão 
+
+## Aula
+
+- [x] Rota para criar aula,
+- [] Listar aulas,
+- [] Filtrar por matéria dia da semana e horário
+
+  

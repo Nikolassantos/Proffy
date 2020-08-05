@@ -1,0 +1,20 @@
+{
+  "cSpell.ignoreWords": [
+    "ignore",
+    "knex",
+    "knex knexfile ts migrate latest",
+    "knexfile",
+    "latest",
+    "migrate",
+    "modules",
+    "node",
+    "respawn",
+    "server",
+    "src",
+    "ts",
+    "tsnd",
+    "tsnd ignore watch node modules respawn src server ts",
+    "watch",
+    "whatsapp"
+  ]
+}
