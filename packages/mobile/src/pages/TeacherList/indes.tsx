@@ -3,8 +3,8 @@ import {View, ScrollView,Text , TextInput} from 'react-native'
 import { BorderlessButton, RectButton } from 'react-native-gesture-handler';
 
 import styles from './styles'
-import PageHeader from '../../components/PageHeader'
-import TeacherItem, { Teacher } from '../../components/TeacherItem';
+import PageHeader from '../components/PageHeader'
+import TeacherItem, { Teacher } from '../components/TeacherItem';
 import { Feather } from '@expo/vector-icons'
 import api from '../../services/api';
 import AsyncStorage from '@react-native-community/async-storage'

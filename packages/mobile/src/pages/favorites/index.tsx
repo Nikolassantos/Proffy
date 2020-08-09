@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import { View, ScrollView, AsyncStorage } from 'react-native'
 
 import styles from './styles'
-import PageHeader from '../../components/PageHeader';
-import TeacherItem, { Teacher } from '../../components/TeacherItem';
+import PageHeader from '../components/PageHeader';
+import TeacherItem, { Teacher } from '../components/TeacherItem';
 import { useFocusEffect } from '@react-navigation/native'
 
 function Favorites() {

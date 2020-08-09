@@ -1,11 +1,10 @@
 import React, { useState, useEffect } from 'react';
 
-import { View, Image , Text, TouchableOpacity} from 'react-native';
+import { View, Image , Text, } from 'react-native';
 import styles from  './styles';
 import landingImg from '../../assets/images/landing.png';
 import studyIcon from '../../assets/images/icons/study.png';
 import giveClassesIcon from '../../assets/images/icons/give-classes.png';
-import HeathIcon from '../../assets/images/icons/heart.png'
 import { useNavigation } from '@react-navigation/native'
 import { RectButton } from 'react-native-gesture-handler'
 import api from '../../services/api';
@@ -56,8 +55,7 @@ function Landing() {
           </Text>
         </RectButton>
       </View> 
-      <Text style={styles.totalConnectios}>Total de {totalConnections} conexões{' '}</Text>
-      <Image source={HeathIcon} />
+        <Text style={styles.totalConnectios}>Total de {totalConnections} conexões</Text>
     </View>
   )
 

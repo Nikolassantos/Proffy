@@ -50,8 +50,11 @@ const styles = StyleSheet.create({
     color:'#D4C2FF',
     fontSize:12,
     lineHeight:20,
-    maxWidth: 140,
+    maxWidth: 200,
     marginTop: 40
+  
   },
+  
+ 
 })
 export default styles

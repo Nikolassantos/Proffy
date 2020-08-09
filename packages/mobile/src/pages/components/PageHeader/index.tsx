@@ -4,8 +4,8 @@ import { BorderlessButton } from 'react-native-gesture-handler'
 import { useNavigation } from '@react-navigation/native';
 
 
-import BackIcon from '../../assets/images/icons/back.png';
-import LogoIMG from '../../assets/images/logo.png';
+import BackIcon from '../../../assets/images/icons/back.png';
+import LogoIMG from '../../../assets/images/logo.png';
 
 import styles from './styles';
 

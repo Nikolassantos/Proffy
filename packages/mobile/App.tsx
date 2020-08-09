@@ -15,6 +15,8 @@ import {
 import AppStack from './src/routes/AppStack';
 
 
+
+
 export default function App() {
   let [fonstLoaded] = useFonts({
     Poppins_400Regular,

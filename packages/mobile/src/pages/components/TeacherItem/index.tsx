@@ -3,10 +3,10 @@ import { View ,Image,Text, Linking} from 'react-native'
 import styles from './styles'
 import { RectButton } from 'react-native-gesture-handler';
 import AsyncStorage from '@react-native-community/async-storage'
-import FavoriteICon from '../../assets/images/icons/heart-outline.png'
-import UnFavoriteICon from '../../assets/images/icons/unfavorite.png'
-import whatsappIcon from '../../assets/images/icons/whatsapp.png'
-import api from '../../services/api';
+import FavoriteICon from '../../../assets/images/icons/heart-outline.png'
+import UnFavoriteICon from '../../../assets/images/icons/unfavorite.png'
+import whatsappIcon from '../../../assets/images/icons/whatsapp.png'
+import api from '../../../services/api';
 
 export interface Teacher {
   id: number;
