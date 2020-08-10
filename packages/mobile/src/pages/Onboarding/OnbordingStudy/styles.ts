@@ -8,12 +8,19 @@ const styles = StyleSheet.create({
   studyBackground:{
     backgroundColor:'#8257E5',
     height:'40%',
+    width:'100%',
+    justifyContent:'center',
+    alignItems:'center',
+  },
+  backgroundStudyIMG:{
+    width:250,
+    height:200,
     flexDirection:'row',
     justifyContent:'center',
     alignItems:'center'
   },
   StudyIcon:{
-    width:100 ,
+    width:100,
     height:100
   },
   nextpage:{
@@ -29,12 +36,12 @@ const styles = StyleSheet.create({
   },
   contentTextNumber:{
     fontFamily:'Archivo_400Regular',
-    color:'#6A6180',
+    color:'#C1BCCC',
     fontSize:40
   },
   description:{
     maxWidth:180,
-    fontFamily:'Poppins_400Regular',
+    fontFamily:'Poppins_600SemiBold',
     fontSize:18,
     marginTop:10,
     color:'#6A6180'

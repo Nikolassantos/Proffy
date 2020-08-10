@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
-import Landing from './src/pages/Landing';
+import Landing from './src/pages/Landing2.0';
 import { AppLoading } from 'expo';
 import 
 { 
@@ -30,7 +30,7 @@ export default function App() {
     } else {
       return (
         <>
-        <AppStack/>
+        <Landing/>
         <StatusBar style="light" />
         </>
       )
