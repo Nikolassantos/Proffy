@@ -1,0 +1,14 @@
+{ 
+  "name": "monorepo",
+  "workspaces": {
+    "packages": [ 
+      "packages/*"
+    ]
+  },
+  "private":"true",
+  "devDependencies": {
+    "typescript": "^3.9.7",
+    "@monorepo/eslint-config":"*"
+  },
+  "author": "Nikolas Santos <nikolassantoshttp@gmail.com>"
+}
